@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/flask-restful/flask-restful/commit/88cce53a8cd65830bf1815185a42ba24e5db78c6",
       "git:hexsha": "88cce53a8cd65830bf1815185a42ba24e5db78c6",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.3.10"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.3.10",
+      "repolex:parsedAt": "2026-10-12T21:39:35.488262+00:00"
     },
     {
       "@id": "https://repolex.ai/r/flask-restful/flask-restful/commit/4912ae175f0e7b4290ab707e7e64b03872095a9f",
